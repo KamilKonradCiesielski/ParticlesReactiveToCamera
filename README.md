@@ -17,7 +17,7 @@ Running
 
 Documentation
 
-The project consists of four files:
+The project consists of four files in folder src:
 
     particle.h
     particle.cpp
