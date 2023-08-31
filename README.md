@@ -37,6 +37,7 @@ The particle class represents an individual particle in the project. It has seve
 The particle class contains various parameters and vectors, such as position (pos), velocity (vel), force (frc), repelling force (repelFrc), drag coefficient (drag), unique values for generating noise (uniqueVal), and size (size). This class is essential for the project as it represents elements that create the visual effect through interaction between them.
 
 ------------------------------------------------particle.cpp------------------------------------------------------------------------------------
+
 The code presents the implementation of the particle class, which describes the behavior of an individual particle in the project. Here's a description of each function:
 
     Constructor particle::particle(): This is the constructor of the particle class, which is empty in this case. The constructor initializes a new instance of the particle class.
